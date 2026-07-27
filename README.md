@@ -126,6 +126,16 @@ game-translator-ai/
 **Early Development — Prototype**
 
 The core window capture and OCR pipeline is currently functional. Translation and overlay systems are under development.
+## License
+
+Copyright © 2026 Özge Akçay. All rights reserved.
+
+The original source code in this repository is publicly available for
+viewing, evaluation, and portfolio purposes. Reuse, modification,
+distribution, or commercial use requires prior written permission.
+
+Third-party dependencies remain subject to their respective licenses.
+See [LICENSE](LICENSE) for details.
 
 ## Author
 
